@@ -1,0 +1,22 @@
+img{
+    border: 5px solid grey;
+    border-radius: 160px;
+    width: 20%;
+}
+h1{
+    font-family: Georgia , Times, serif;
+    letter-spacing: 2px;
+    font-variant: small-caps;
+    color: darkgreen;
+    text-align: center;
+}
+body{
+    font-family: Georgia , Times, serif;
+    background-color: lavender;
+}
+ul{
+    list-style-type: square;
+    margin-left: 5%;
+    border: 1pt dotted gray;
+    width: 30%;
+}
