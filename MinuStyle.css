@@ -1,9 +1,5 @@
 img{
-    display: block;
-    margin: 20px auto;
-    border: 6px solid grey;
     border-radius: 160px;
-    width: 15%;
 }
 h1{
     font-family: Georgia , Times, serif;
@@ -12,54 +8,12 @@ h1{
     color: darkgreen;
     text-align: center;
 }
-h3{
-    font-family: Georgia , Times, serif;
-    letter-spacing: 2px;
-    font-variant: small-caps;
-    color: black;
-    text-align: center;
-}
-ul{
-    display: inline;
-    font-family: Georgia , Times, serif;
-    list-style-type: square;
-    padding: 0;
-    text-align: center;
-    color: darkgreen;
-    list-style-position: inside;
-}
-a{
-    display: block;
-    margin: 0 auto;
-    width: 50%;
-    font-size: 1.5em;
-    color: darkgreen;
-    text-decoration: none;
-    text-align: center;
-    padding: 10px 20px;
-    border: 2px solid darkgreen;
-    border-radius: 5px;
-}
-div{
-    width: 50%;
-    margin: 0 auto;
-}
 body{
     font-family: Georgia , Times, serif;
-    background-color: lightgreen;
 }
 ul{
     list-style-type: square;
     margin-left: 5%;
     border: 1pt dotted gray;
     width: 30%;
-}
-strong{
-    display: block;
-    text-align: center;
-    margin: 20px auto;
-    font-weight: bold;
-}
-#issue1{
-
 }
