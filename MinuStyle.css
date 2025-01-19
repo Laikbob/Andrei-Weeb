@@ -1,19 +1,42 @@
 img{
+    border: 6px solid grey;
     border-radius: 160px;
+    display: block;
+    margin: 0 auto;
+    width: 20%;
 }
 h1{
     font-family: Georgia , Times, serif;
     letter-spacing: 2px;
     font-variant: small-caps;
-    color: lightgreen;
+    color: darkgreen;
     text-align: center;
 }
 body{
     font-family: Georgia , Times, serif;
+    background-color: lightgreen;
 }
 ul{
     list-style-type: square;
-    margin-left: 5%;
-    border: 1pt dotted gray;
     width: 30%;
+    margin: 0 auto;
+    border: none;
+    text-align: left;
+    color: darkblue;
+    font-family: Georgia , Times, serif;
+}
+h3{
+    font-family: Georgia , Times, serif;
+    color: darkgreen;
+    text-align: center;
+}
+strong{
+    font-family: Georgia , Times, serif;
+    color: darkblue;
+    text-align: center;
+    display: block;
+}
+p{
+    text-align: center;
+    font-size: 17px;
 }
