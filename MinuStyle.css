@@ -37,6 +37,14 @@ strong{
     display: block;
 }
 p{
-    text-align: center;
+    text-align: justify;
     font-size: 17px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+a{
+    font-family: Georgia , Times, serif;
+    color: darkgreen;
+    text-align: center;
+    display: block;
 }
