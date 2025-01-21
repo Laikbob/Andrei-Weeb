@@ -48,3 +48,12 @@ a{
     text-align: center;
     display: block;
 }
+nav ul {
+    list-style-type: square;
+    font-family: Georgia , Times, serif;
+    margin: 0;
+    padding: 0;
+    display: inline;
+    text-align: center;
+    justify-content: center;
+}
